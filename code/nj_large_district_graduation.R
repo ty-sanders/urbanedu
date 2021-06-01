@@ -1,3 +1,4 @@
+## Author: Tyler Sanders
 devtools::install_github('UrbanInstitute/education-data-package-r')
 
 library(tidyverse)
